@@ -4,7 +4,7 @@ Allows the connection of Minecraft: PC clients to PocketMine-MP servers. Made fo
 ##Changelog: Update 6:
 * More Fixes
 * More Packets (mostly from lolcraftboy14)
-* Note: Player from Minecraft PC sometimes lags.
+* Note: Player from Minecraft PC sometimes lags. 
 
 ###Changelog: Update 5:
 * Works Again MCPE 0.15.x and Minecraft PC 1.8.x
